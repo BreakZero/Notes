@@ -30,6 +30,9 @@
 /build/
 
 # Android related
+**/android/app/src/debug/gen
+**/android/app/src/main/gen
+**/android/app/src/profile/gen
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
 **/android/captures/
